@@ -1,5 +1,8 @@
 1
 1-alpine
+1-alpine3.13
+1-alpine3.14
+1-buster
 1.4-alpine
 1.4.21 1.4.22
 1.4.23
@@ -72,6 +75,9 @@
 1.5.22-alpine
 1.6
 1.6-alpine
+1.6-alpine3.13
+1.6-alpine3.14
+1.6-buster
 1.6.0
 1.6.0-alpine
 1.6.1
@@ -88,5 +94,17 @@
 1.6.8-alpine 1.6.7-alpine
 1.6.9
 1.6.9-alpine
-alpine
+1.6.9-alpine3.13
+1.6.9-alpine3.14
+1.6.10
+1.6.10-alpine3.14
+1.6.10-alpine 1.6.9-buster
+1.6.10-buster
+1.6.12
+1.6.12-alpine
+1.6.12-buster
+alpine3.13
+alpine3.14
+alpine 1.6.12-alpine3.14
+buster
  latest
