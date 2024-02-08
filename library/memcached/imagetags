@@ -1,5 +1,6 @@
 1
 1-alpine
+1-bullseye
 1-buster
 1.4
 1.4-alpine
@@ -7,7 +8,9 @@
 1.5-alpine
 1.6
 1.6-alpine
+1.6-bullseye
 1.6-buster
 alpine
+bullseye
 buster
 latest

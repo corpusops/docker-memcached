@@ -1,4 +1,4 @@
-FROM library/memcached:buster
+FROM library/memcached:1.6-bullseye
 ARG DO_UPDATE=y
 ARG NONINTERACTIVE=y
 ARG INSTALL_DEFAULT_LOCALE="fr_FR.UTF-8"
